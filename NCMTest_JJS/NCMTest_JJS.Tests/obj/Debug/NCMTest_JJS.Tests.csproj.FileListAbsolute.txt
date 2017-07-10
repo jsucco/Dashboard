@@ -1,0 +1,10 @@
+C:\Users\jsucco\Dropbox (Standard Textile)\APR_Publish\APRDashboard\NCMTest_JJS\NCMTest_JJS.Tests\bin\Debug\NCMTest_JJS.Tests.dll.config
+C:\Users\jsucco\Dropbox (Standard Textile)\APR_Publish\APRDashboard\NCMTest_JJS\NCMTest_JJS.Tests\bin\Debug\NCMTest_JJS.Tests.dll
+C:\Users\jsucco\Dropbox (Standard Textile)\APR_Publish\APRDashboard\NCMTest_JJS\NCMTest_JJS.Tests\bin\Debug\NCMTest_JJS.Tests.pdb
+C:\Users\jsucco\Dropbox (Standard Textile)\APR_Publish\APRDashboard\NCMTest_JJS\NCMTest_JJS.Tests\bin\Debug\NCMTest_JJS.dll
+C:\Users\jsucco\Dropbox (Standard Textile)\APR_Publish\APRDashboard\NCMTest_JJS\NCMTest_JJS.Tests\bin\Debug\EntityFramework.dll
+C:\Users\jsucco\Dropbox (Standard Textile)\APR_Publish\APRDashboard\NCMTest_JJS\NCMTest_JJS.Tests\bin\Debug\NCMTest_JJS.pdb
+C:\Users\jsucco\Dropbox (Standard Textile)\APR_Publish\APRDashboard\NCMTest_JJS\NCMTest_JJS.Tests\bin\Debug\EntityFramework.xml
+C:\Users\jsucco\Dropbox (Standard Textile)\APR_Publish\APRDashboard\NCMTest_JJS\NCMTest_JJS.Tests\obj\Debug\NCMTest_JJS.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jsucco\Dropbox (Standard Textile)\APR_Publish\APRDashboard\NCMTest_JJS\NCMTest_JJS.Tests\obj\Debug\NCMTest_JJS.Tests.dll
+C:\Users\jsucco\Dropbox (Standard Textile)\APR_Publish\APRDashboard\NCMTest_JJS\NCMTest_JJS.Tests\obj\Debug\NCMTest_JJS.Tests.pdb

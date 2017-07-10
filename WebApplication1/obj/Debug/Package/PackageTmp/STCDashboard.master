@@ -1,0 +1,49 @@
+﻿<%@ Master Language="VB" CodeFile="STCDashboard.master.vb" Inherits="APP_MasterPage_STCDashboard" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" style="overflow-y:hidden">
+<head id="Head1" runat="server">
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>APR</title>
+    <link href="Content/Site.css" rel="stylesheet" type="text/css" />
+
+    
+
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">  
+
+    </asp:ContentPlaceHolder>
+</head>
+<body id="sitebody" style="background: linear-gradient(white, #95A0A9); height: 1500px;">
+    <form id="form1" runat="server">
+
+    <div class="title" style="top: -20px; margin-top:0px; box-shadow: 0 5px 5px #716F6F;  ">
+        <br />
+        <figure style="top: -20px; margin-top:0px;  "> 
+            <asp:Image ID="Image1" runat="server"
+            ImageUrl ="~/Images/APR_Title_6.5.14.jpg" Height="52px" Width="555px" />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </figure>
+        <figure style="top: -80px; margin-top:0px; position:relative; float:right; margin-right:0px; width:70px;  "> 
+            <asp:Image ID="Image2" runat="server"
+            ImageUrl ="~/Images/STCCorpLogo2.png" Height="48px" Width="48px" />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </figure>
+                
+    </div>
+    <div>
+        <asp:ContentPlaceHolder id="MainContent" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        <asp:ContentPlaceHolder ID="ControlOptions" runat="server">
+                <script type="text/javascript">
+                    ////$(function () {
+                    ////  ////  $("#sitebody").css("height", $(window).height()*.97);
+                    ////});
+                </script>
+            </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
